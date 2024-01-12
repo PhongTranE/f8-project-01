@@ -134,6 +134,7 @@ a {
   right: calc((100vw - 1110px) / 2 - 100px);
   bottom: 0;
 }
+
 /* ====================CLIENTS================= */
 .clients {
   margin-top: 79px;
@@ -530,6 +531,7 @@ a {
 }
 
 /* ====================Footer================= */
+
 .footer {
   margin-top: 55px;
   padding: 50px 0 58px;
@@ -585,7 +587,7 @@ a {
 }
 
 .footer .social-link:hover {
-  background: #ebebeb;
+  background: #fff;
 }
 
 .footer .row-bottom {
