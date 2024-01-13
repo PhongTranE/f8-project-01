@@ -595,9 +595,12 @@ a {
   height: 28px;
   border-radius: 3px;
 }
+.footer .social-link + .social-link {
+  margin-left: 16px;
+}
 
 .footer .social-link:hover {
-  background: #fff;
+  background: #f9f9f9;
 }
 
 .footer .row-bottom {
